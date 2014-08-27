@@ -1,3 +1,8 @@
+.idea
+
+# Secure connection info, don't share in .git
+private-connection-info.json
+
 # Logs
 logs
 *.log
